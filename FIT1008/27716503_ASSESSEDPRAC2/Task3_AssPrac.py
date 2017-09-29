@@ -206,24 +206,4 @@ theArray.append(8)
 print(theArray)
 print(theArray.__getitem__(2))
 theArray.insert(1,"pie")
-#theArray.append(9)
-#theArray.increaseSize()
-#theArray.append(10)
-#print(theArray)
-#print(1 in theArray)
-#print(theArray.__getitem__(2))
-##print(theArray)
-#theArray.remove(2)
-#print(theArray)
-#theArray.__setitem__(3,5)
-#theArray.insert(1,3)
-#print(theArray)
-
-
-
-
-#self.array = [None, None, None, None, None]
-#list.insert(1,x)
-#self.array = [x, None, None, None, None]
-
 
